@@ -1,6 +1,9 @@
 {
   "name": "backend",
   "version": "1.0.0",
+  "engines": {
+    "node": "v18.12.1"
+  },
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +22,14 @@
     "nodemailer": "^6.8.0",
     "nodemon": "^2.0.20"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sundaysamuel250/shawport-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sundaysamuel250/shawport-backend/issues"
+  },
+  "homepage": "https://github.com/sundaysamuel250/shawport-backend#readme",
   "description": ""
 }
